@@ -14,7 +14,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/3-column-preview-card-with-html-and-css--G3OwL6Plu](https://www.frontendmentor.io/solutions/3-column-preview-card-with-html-and-css--G3OwL6Plu)
 - Live Site URL: [https://grunt395.github.io/3-Column-Preview-Card/](https://grunt395.github.io/3-Column-Preview-Card/)
 
 ## My process
